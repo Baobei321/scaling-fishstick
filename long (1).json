@@ -345,7 +345,7 @@
             "filterable": 1,
             "ext": "./lib/MTV.txt"
         },
-                {
+        {
             "key": "酷狗音乐",
             "name": "🎵酷狗音乐┃音乐",
             "type": 3,
@@ -354,6 +354,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "清风dj",
+            "name": "🎵清风DJ┃音乐",
+            "type": 3,
+            "api": "./lib/apiv1021drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/清风dj.js"
         },
         {
             "key": "DJ",
