@@ -364,7 +364,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/清风dj.js"
+            "ext": "./js/清风DJ.js"
         },
         {
             "key": "DJ",
