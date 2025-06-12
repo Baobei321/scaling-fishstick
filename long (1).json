@@ -880,7 +880,7 @@
         },
         {
             "key": "魔都影视",
-            "name": "魔都影视(🔥)",
+            "name": "魔都影视(🐉)",
             "type": 0,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -928,7 +928,7 @@
         },
         {
             "key": "魔爪影视",
-            "name": "魔爪影视(🔥)",
+            "name": "魔爪影视(🐉)",
             "type": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod",
             "searchable": 1,
@@ -1909,7 +1909,7 @@
         },
         {
             "key": "旺旺短剧",
-            "name": "🐉旺旺短剧(🐉)",
+            "name": "旺旺短剧(🐉)",
             "type": 1,
             "api": "https://api.wwzy.tv/api.php/provide/vod/",
             "searchable": 1,
