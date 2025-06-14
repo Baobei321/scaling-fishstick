@@ -10,7 +10,7 @@
 测试浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重温经典,https://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 东方卫视,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_td.m3u8
-
+测试直播,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_13711650319_strL_hd4000.flv?txSecret=336e8e27bb8b7f938de54a4976ab6f81&txTime=684e9d36&stat=W8CJzB13TGu4vRtTUgF3uHi2FHHADQVG8Q82dN%2FdhphCF25D9RzJbkrsL%2FpqAuQ3&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=HdlcFJM0JrM&ss=s20&tfc_buyer=0
 🐉󠁧󠁢󠁥󠁮央视频道󠁧󠁢󠁥󠁮,#genre#
 CCTV-1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-2,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
@@ -49,6 +49,7 @@ CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
 湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
 河南卫视,http://39.134.67.108/PLTV/88888888/224/3221226023/1.m3u8
+
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 江西卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226344/index.m3u8?IASHttpSessionId=
 江苏卫视,http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
@@ -211,6 +212,22 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 咪咕视频,http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
 纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
   
+🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮
+🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳
+
+🐉斗鱼游戏直播,#genre#
+穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+和平精英·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
 🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮
 🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳󠁧󠁢󠁥󠁮🇨🇳
 
