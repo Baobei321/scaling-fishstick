@@ -1,5 +1,5 @@
 {
-    "spider": "./o.jar",
+    "spider": "https://vip.123pan.cn/1826583920/13773275",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://14338.kstore.space/%E6%88%91.gif",
     "sites": [
@@ -11,14 +11,14 @@
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "ext": "./json/douban.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/douban.json"
         },
         {
             "key": "配置中心1",
             "name": "配置中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "./spider.jar",
+            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -31,56 +31,56 @@
             "key": "央视大全",
             "name": "央视直播┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/央视大全2.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552451"
         },
         {
             "key": "央视经济",
             "name": "央视经济┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/央视经济.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552454"
         },
         {
             "key": "央视新闻",
             "name": "央视新闻┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/央视新闻.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552453"
         },
         {
             "key": "央视综合",
             "name": "央视综合┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/央视综合.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552455"
         },
         {
             "key": "央视少儿",
             "name": "央视少儿┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/央视少儿.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552452"
         },
         {
             "key": "哔哩经典",
@@ -90,13 +90,13 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/哔哩经典.json"
+            "ext": "https://vip.123pan.cn/1826583920/14552544"
         },
         {
             "key": "lf_live10_min-output",
             "name": "电视直播[js]",
             "type": 3,
-            "api": "./lib/lf_live10_min-output.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/lf_live10_min-output.js",
             "style": {
                 "type": "oval"
             },
@@ -104,14 +104,14 @@
             "changeable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/lf_live.txt"
+            "ext": "https://14338.kstore.space/tvbox1/lib/lf_live.txt"
         },
         {
             "key": "快手直播",
-            "name": "快手直播🐉",
+            "name": "快手直播(🐉)",
             "type": 3,
             "api": "csp_KsLive",
-            "jar": "./dhys.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14552367",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -122,20 +122,20 @@
         },
         {
             "key": "drpy_js_虎牙直播",
-            "name": "虎牙直播🐉",
+            "name": "虎牙直播(🐉)",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./drpy_libs/drpy2.min.js",
-            "ext": "./js/虎牙直播.js"
+            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552477"
         },
         {
             "key": "斗鱼js",
-            "name": "斗鱼直播🐉",
+            "name": "斗鱼直播(🐉)",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
-            "ext": "./js/斗鱼直播.js",
+            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552460",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -147,24 +147,24 @@
         },
         {
             "key": "网络直播",
-            "name": "聚合直播🐉",
+            "name": "网络直播(🐉)",
             "type": 3,
-            "api": "./py/网络直播.py"
+            "api": "https://14338.kstore.space/tvbox1/py/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py"
         },
         {
             "key": "蜻蜓FM",
-            "name": "各地广播🐉",
+            "name": "各地广播(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/蜻蜓FM.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552478"
         },
         {
             "key": "csp_XPath_企鹅体育",
-            "name": "企鹅直播🐉",
+            "name": "企鹅直播(🐉)",
             "type": 3,
             "api": "csp_XPath",
             "style": {
@@ -174,14 +174,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/企鹅直播.json"
+            "ext": "https://vip.123pan.cn/1826583920/14552534"
         },
         {
             "key": "88js",
-            "name": "88看球🐉",
+            "name": "88看球(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/88看球.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552425",
             "style": {
                 "type": "list"
             },
@@ -193,23 +193,23 @@
             "key": "ss直播",
             "name": "SS直播❤️",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/ss直播.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552433"
         },
         {
             "key": "hipy_js_36直播[密]",
             "name": "36直播❤️",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/36直播[密].js"
+            "ext": "https://vip.123pan.cn/1826583920/14552422"
         },
         {
             "key": "盘Ta",
@@ -219,7 +219,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "jar": "./lib/wpzy.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14552403",
             "ext": {
                 "siteUrl": "https://www.91panta.cn/",
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
@@ -239,7 +239,7 @@
             "name": "百度趣盘🐉4K",
             "type": 3,
             "api": "csp_PanWebQu",
-            "jar": "./spider.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14552369",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -255,7 +255,7 @@
             "name": "天翼雷鲸🐉4K",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
-            "jar": "./spider.jar",
+            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -264,34 +264,94 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "./json/lj.json?"
+            "ext": "https://14338.kstore.space/tvbox1/json/lj.json?"
         },
         {
             "key": "多多",
             "name": "多多网盘🐉4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./spider.jar",
+            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/yyds.json?"
+            "ext": "https://14338.kstore.space/tvbox1/json/yyds.json?"
         },
         {
             "key": "木偶",
             "name": "木偶网盘🐉4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./spider.jar",
+            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/mogg.json?"
+            "ext": "https://14338.kstore.space/tvbox1/json/mogg.json?"
+        },
+        {
+            "key": "csp_FeiMaoUC",
+            "name": "闪电网盘🐉4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "jar": "https://14338.kstore.space/tvbox1/PandaQ250604.jpg",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://1.95.79.193/"
+                ],
+                "url_key": "FeiMaoUC"
+            }
+        },
+        {
+            "key": "csp_Duopan",
+            "name": "蜡笔网盘🐉4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "jar": "https://14338.kstore.space/tvbox1/PandaQ250604.jpg",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "http://feimaoai.site",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "https://fmao.shop"
+                ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
+                "url_key": "Duopan2"
+            }
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "至臻网盘🐉4k",
+            "type": 3,
+            "api": "csp_Duopan",
+            "jar": "https://14338.kstore.space/tvbox1/PandaQ250604.jpg",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaomi666.fun",
+                    "https://xiaomiai.site",
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "http://www.miqk.cc",
+                    "https://www.zhizhenpan.fun"
+                ],
+                "url_key": "Netfixtv2",
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                }
+            }
         },
         {
             "key": "三六零弹幕",
-            "name": "三六零🐉多线",
+            "name": "三六视频(🐉)",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
@@ -300,66 +360,66 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./lib/danmu.jar"
+            "jar": "https://14338.kstore.space/tvbox1/lib/danmu.jar"
         },
         {
             "key": "哔哩",
-            "name": "哔哩视频🐉",
+            "name": "哔哩视频(🐉)",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/哔哩视频.js"
+            "ext": "https://14338.kstore.space/tvbox1/js/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.js"
         },
         {
             "key": "芒果",
-            "name": "芒芒视频🐉",
+            "name": "芒芒视频(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/芒果.js"
+            "ext": "https://14338.kstore.space/tvbox1/js/%E8%8A%92%E6%9E%9C.js"
         },
         {
             "key": "腾讯",
-            "name": "腾腾视频🐉",
+            "name": "腾腾视频(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/腾讯.js"
+            "ext": "https://14338.kstore.space/tvbox1/js/%E8%85%BE%E8%AE%AF.js"
         },
         {
             "key": "优酷",
-            "name": "优优视频🐉",
+            "name": "优优视频(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/优酷.js"
+            "ext": "https://14338.kstore.space/tvbox1/js/%E4%BC%98%E9%85%B7.js"
         },
         {
             "key": "爱奇艺",
-            "name": "奇奇视频",
+            "name": "奇奇视频(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/爱奇艺.js"
+            "ext": "https://14338.kstore.space/tvbox1/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
         },
         {
             "key": "机器人弹幕",
-            "name": "机器视频🐉",
+            "name": "机器视频(🐉)",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -368,17 +428,17 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./lib/danmu.jar"
+            "jar": "https://14338.kstore.space/tvbox1/lib/danmu.jar"
         },
         {
             "key": "bilibili",
-            "name": "bilibili综合🐉",
+            "name": "bilibili综合(🐉)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/bilibili.txt"
+            "ext": "https://vip.123pan.cn/1826583920/14611561"
         },
         {
             "key": "明星MTV",
@@ -388,14 +448,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/MTV.txt"
+            "ext": "https://vip.123pan.cn/1826583920/14611558"
         },
         {
             "key": "酷狗音乐",
             "name": "酷狗音乐🎵",
             "type": 3,
             "api": "csp_Kugou",
-            "jar": "./lib/wpzy.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14552403",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -404,12 +464,12 @@
             "key": "清风dj",
             "name": "清风DJ🎵",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/清风DJ.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552469"
         },
         {
             "key": "DJ",
@@ -419,15 +479,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./lib/wpzy.jar",
-            "ext": "./json/DJyyyyw.json"
+            "jar": "https://vip.123pan.cn/1826583920/14552403",
+            "ext": "https://vip.123pan.cn/1826583920/14552513"
         },
         {
             "key": "一曲肝肠断",
-            "name": "bilibili戏曲🐉",
+            "name": "bilibili戏曲(🐉)",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/xq.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552435",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -435,69 +495,69 @@
         },
         {
             "key": "相声小品",
-            "name": "相声小品🐉",
+            "name": "相声小品(🐉)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Blixs.json"
+            "ext": "https://vip.123pan.cn/1826583920/14552512"
         },
         {
             "key": "戏 曲",
-            "name": "国粹戏曲🐉",
+            "name": "国粹戏曲(🐉)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Blixq.json"
+            "ext": "https://vip.123pan.cn/1826583920/14552514"
         },
         {
             "key": "博看听书",
             "name": "博看听书🎙",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./js/博看听书.js"
+            "ext": "https://vip.123pan.cn/1826583920/14552447"
         },
         {
             "key": "有声听书",
             "name": "有声听书🎙",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/有声小说吧.js"
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552462"
         },
         {
             "key": "爱上你",
             "name": "爱上听书🎙",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/爱上你听书网.js"
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552470"
         },
         {
             "key": "评书随身听",
             "name": "评书听书🎙",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/评书随身听.js"
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552479"
         },
         {
             "key": "播客",
             "name": "播客听书🎙",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/播客.js"
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://vip.123pan.cn/1826583920/14552459"
         },
         {
             "key": "天天",
             "name": "天天秒播(🐉)",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "./1.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14611420",
             "playerType": 1,
             "ext": "7lj763gg09397919456493i0h44j8681highi4"
         },
@@ -506,7 +566,7 @@
             "name": "追剧App(🐉)",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "./1.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14611420",
             "playerType": 1,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
         },
@@ -515,7 +575,7 @@
             "name": "剧评App(🐉)",
             "type": 3,
             "api": "csp_Jpys",
-            "jar": "./1.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14611420",
             "playerType": 1,
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
@@ -524,7 +584,7 @@
             "name": "星河App(🐉)",
             "type": 3,
             "api": "csp_Xdai",
-            "jar": "./1.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14611420",
             "playerType": 2,
             "ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk"
         },
@@ -533,16 +593,16 @@
             "name": "驿站App(🐉)",
             "type": 3,
             "api": "csp_Muou",
-            "jar": "./1.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14611420",
             "playerType": 2,
             "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh "
         },
         {
             "key": "热播",
-            "name": "热播┃App",
+            "name": "热播App(🐉)",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "./1.jar",
+            "jar": "https://vip.123pan.cn/1826583920/14611420",
             "playerType": 1,
             "ext": "7lj763gg0939791h1l3888jig44gi291li"
         },
@@ -630,6 +690,83 @@
                 "搜索图片": "data-src=\"&&\"",
                 "分类url": "https://brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$movie#电视剧$tv#综艺$show#动漫$cartoon#纪录片$documentary"
+            }
+        },
+        {
+            "key": "屠夫影院",
+            "name": "屠夫影视(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+                "线路数组": "class=\"dvdyy-content__playlist clearfix column6\">&&</ul>",
+                "分类url": "http://k.jsgshtl.com/s/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
+            }
+        },
+        {
+            "key": "零零七影视",
+            "name": "零七影视(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#",
+                "分类url": "https://vip.00qtv.com/007/{cateId}/page/{catePg}.html",
+                "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
+            }
+        },
+        {
+            "key": "奇游影视",
+            "name": "奇游影视(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#伦理$6",
+                "分类url": "http://23.224.2.172/list/{cateId}_{catePg}.html",
+                "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
+            }
+        },
+        {
+            "key": "天龙影视",
+            "name": "天龙影视(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "线路数组": "tab_con_playlist&&</a>",
+                "线路标题": ">&&</",
+                "播放数组": "con_c2_list&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+                "分类url": "http://m.zhiqihuo.cc/show/id/{cateId}/page/{catePg}.html",
+                "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
+            }
+        },
+        {
+            "key": "vS",
+            "name": "vS影视(🐉)",
+            "type": 3,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "线路数组": "<a href=\"#playlist&&</a>",
+                "线路标题": ">&&<[不包含:APP高清]",
+                "分类url": "https://m.wnszgcc.com/vsjiusw/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电影$6#电视剧$2#综艺$3#动漫$4",
+                "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
             }
         },
         {
@@ -1604,7 +1741,6 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://www.xiaodigu1.com/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-           
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
                 "简介": "🍁龙少爷🍁水印广告勿信🍁，🍁谨防诈骗🍁"
             }
@@ -1617,8 +1753,7 @@
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                  "线路标题": "<h3>&&<sup",
-           
+                "线路标题": "<h3>&&<sup",
                 "分类url": "https://v.xsszy.com/wbktype/{cateId}-{catePg}.html",
                 "分类": "电视剧$2#电影$1#短剧$37#综艺$3",
                 "简介": "🍁龙少爷🍁水印广告勿信🍁，🍁谨防诈骗🍁"
@@ -2582,7 +2717,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔人文.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E4%BA%BA%E6%96%87.json"
         },
         {
             "key": "小灯塔科学",
@@ -2592,7 +2727,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔科学.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json"
         },
         {
             "key": "小灯塔国学",
@@ -2602,7 +2737,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔国学.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json"
         },
         {
             "key": "小灯塔地理",
@@ -2612,7 +2747,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔地理.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json"
         },
         {
             "key": "小灯塔百科",
@@ -2622,7 +2757,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔百科.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%99%BE%E7%A7%91.json"
         },
         {
             "key": "急救教学",
@@ -2636,7 +2771,7 @@
                 "type": "rect",
                 "ratio": 3.8
             },
-            "jar": "./pg.jar"
+            "jar": "https://14338.kstore.space/tvbox1/pg.jar"
         },
         {
             "key": "美食合集",
@@ -2646,7 +2781,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/美食合集.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
         },
         {
             "key": "中医药区",
@@ -2656,14 +2791,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/zyy.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/zyy.json"
         },
         {
             "key": "儿童童趣",
             "name": "儿童童趣📚",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
-            "ext": "./js/tongqu.js"
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "ext": "https://14338.kstore.space/tvbox1/js/tongqu.js"
         },
         {
             "key": "儿童口才",
@@ -2673,7 +2808,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童口才.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E5%8F%A3%E6%89%8D.json"
         },
         {
             "key": "儿童拼音",
@@ -2683,7 +2818,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童拼音.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E6%8B%BC%E9%9F%B3.json"
         },
         {
             "key": "儿童识字",
@@ -2693,7 +2828,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童识字.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E8%AF%86%E5%AD%97.json"
         },
         {
             "key": "儿童思维",
@@ -2703,7 +2838,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童思维.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E6%80%9D%E7%BB%B4.json"
         },
         {
             "key": "儿童英语",
@@ -2713,7 +2848,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童英语.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E8%8B%B1%E8%AF%AD.json"
         },
         {
             "key": "儿童硬笔",
@@ -2723,7 +2858,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童硬笔.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E7%A1%AC%E7%AC%94.json"
         },
         {
             "key": "儿童编程",
@@ -2733,7 +2868,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童编程.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E7%BC%96%E7%A8%8B.json"
         },
         {
             "key": "儿童武术",
@@ -2743,17 +2878,17 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童武术.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%84%BF%E7%AB%A5%E6%AD%A6%E6%9C%AF.json"
         },
         {
             "key": "儿童启蒙",
             "name": "儿童启蒙📚",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",
+            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/兔小贝.js"
+            "ext": "https://14338.kstore.space/tvbox1/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
         },
         {
             "key": "少儿教育",
@@ -2763,7 +2898,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/少儿教育.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
         },
         {
             "key": "小学课堂",
@@ -2773,7 +2908,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小学课堂.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
         },
         {
             "key": "小学课堂",
@@ -2783,7 +2918,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小学奥数.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%B0%8F%E5%AD%A6%E5%A5%A5%E6%95%B0.json"
         },
         {
             "key": "初中课堂",
@@ -2793,7 +2928,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/初中课堂.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
         },
         {
             "key": "高中课堂",
@@ -2803,23 +2938,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/高中课堂.json"
+            "ext": "https://14338.kstore.space/tvbox1/json/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
         }
     ],
     "lives": [
         {
             "name": "1",
             "type": 0,
-            "url": "./lib/超级直播.txt",
+            "url": "https://14338.kstore.space/tvbox1/%E8%B6%85%E7%BA%A7%E7%9B%B4%E6%92%AD.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "yoo体育(python)",
-            "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/py/apiv35yoozb.py",
-            "ext": {}
         }
     ],
     "parses": [
