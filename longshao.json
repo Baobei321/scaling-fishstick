@@ -93,18 +93,15 @@
             "ext": "https://vip.123pan.cn/1826583920/14552544"
         },
         {
-            "key": "lf_live10_min-output",
-            "name": "电视直播[js]",
+            "key": "自制音乐",
+            "name": "自制音乐电影广播",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/lf_live10_min-output.js",
-            "style": {
-                "type": "oval"
-            },
+            "api": "https://14338.kstore.space/tvbox1/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B6%E5%92%8C%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B61.js",
             "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://14338.kstore.space/tvbox1/lib/lf_live.txt"
+            "quickSearch": 0,
+            "playerType": 1,
+            "filterable": 0,
+            "ext": "https://14338.kstore.space/tvbox1/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B6%E5%92%8C%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B62.json"
         },
         {
             "key": "快手直播",
