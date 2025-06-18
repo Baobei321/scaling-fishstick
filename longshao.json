@@ -1,5 +1,5 @@
 {
-    "spider": "https://vip.123pan.cn/1826583920/13773275",
+    "spider": "./o.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://14338.kstore.space/%E6%88%91.gif",
     "sites": [
@@ -11,14 +11,14 @@
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "ext": "https://14338.kstore.space/tvbox1/json/douban.json"
+            "ext": "./json/douban.json"
         },
         {
             "key": "配置中心1",
             "name": "配置中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
+            "jar": "./spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -31,56 +31,56 @@
             "key": "央视大全",
             "name": "央视直播┃大全📺",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "api": "./lib/apiv1021drpy2.min.js",   
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552451"
+            "ext": "./js/央视大全2.js"
         },
         {
             "key": "央视经济",
             "name": "央视经济┃大全📺",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "api": "./lib/apiv1021drpy2.min.js",   
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552454"
+            "ext": "./js/央视经济.js"
         },
         {
             "key": "央视新闻",
             "name": "央视新闻┃大全📺",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "api": "./lib/apiv1021drpy2.min.js", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552453"
+            "ext": "./js/央视新闻.js"
         },
         {
             "key": "央视综合",
             "name": "央视综合┃大全📺",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "api": "./lib/apiv1021drpy2.min.js", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552455"
+            "ext": "./js/央视综合.js"
         },
         {
             "key": "央视少儿",
             "name": "央视少儿┃大全📺",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "api": "./lib/apiv1021drpy2.min.js", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552452"
+            "ext": "./js/央视少儿.js"
         },
         {
             "key": "哔哩经典",
@@ -90,25 +90,25 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://vip.123pan.cn/1826583920/14552544"
+            "ext": "./json/哔哩经典.json"
         },
         {
             "key": "自制音乐",
             "name": "自制音乐电影广播",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B6%E5%92%8C%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B61.js",
+            "api": "./直播挂件和直播/直播挂件1.js",
             "searchable": 1,
             "quickSearch": 0,
             "playerType": 1,
             "filterable": 0,
-            "ext": "https://14338.kstore.space/tvbox1/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B6%E5%92%8C%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E6%8C%82%E4%BB%B62.json"
+            "ext": "./直播挂件和直播/直播挂件2.json"
         },
         {
             "key": "快手直播",
             "name": "快手直播(🐉)",
             "type": 3,
             "api": "csp_KsLive",
-            "jar": "https://vip.123pan.cn/1826583920/14552367",
+            "jar": "./dhys.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -124,15 +124,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552477"
+            "api": "./drpy_libs/drpy2.min.js",
+            "ext": "./js/虎牙直播.js"
         },
         {
             "key": "斗鱼js",
             "name": "斗鱼直播(🐉)",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552460",
+            "api": "./drpy_libs/drpy2.min.js",
+            "ext": "./js/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -146,18 +146,18 @@
             "key": "网络直播",
             "name": "网络直播(🐉)",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/py/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py"
+            "api": "./py/网络直播.py"
         },
         {
             "key": "蜻蜓FM",
             "name": "各地广播(🐉)",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
+            "api": "./lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552478"
+            "ext": "./js/蜻蜓FM.js"
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -171,14 +171,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552534"
+            "ext": "./json/企鹅直播.json"
         },
         {
             "key": "88js",
             "name": "88看球(🐉)",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552425",
+            "api": "./lib/apiv1021drpy2.min.js",
+            "ext": "./js/88看球.js",
             "style": {
                 "type": "list"
             },
@@ -190,23 +190,23 @@
             "key": "ss直播",
             "name": "SS直播❤️",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
+            "api": "./drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552433"
+            "ext": "./js/ss直播.js"
         },
         {
             "key": "hipy_js_36直播[密]",
             "name": "36直播❤️",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/drpy_libs/drpy2.min.js",
+            "api": "./drpy_libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552422"
+            "ext": "./js/36直播[密].js"
         },
         {
             "key": "盘Ta",
@@ -216,7 +216,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "jar": "https://vip.123pan.cn/1826583920/14552403",
+            "jar": "./lib/wpzy.jar",
             "ext": {
                 "siteUrl": "https://www.91panta.cn/",
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
@@ -236,7 +236,7 @@
             "name": "百度趣盘🐉4K",
             "type": 3,
             "api": "csp_PanWebQu",
-            "jar": "https://vip.123pan.cn/1826583920/14552369",
+            "jar": "./spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -252,7 +252,7 @@
             "name": "天翼雷鲸🐉4K",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
-            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
+            "jar": "./spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -268,7 +268,7 @@
             "name": "多多网盘🐉4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
+            "jar": "./spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -280,7 +280,7 @@
             "name": "木偶网盘🐉4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "https://14338.kstore.space/tvbox1/spider.jar",
+            "jar": "./spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -435,7 +435,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://vip.123pan.cn/1826583920/14611561"
+            "ext": "./lib/bilibili.txt"
         },
         {
             "key": "明星MTV",
@@ -445,14 +445,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://vip.123pan.cn/1826583920/14707545"
+            "ext": "./lib/MTV.txt"
         },
         {
             "key": "酷狗音乐",
             "name": "酷狗音乐🎵",
             "type": 3,
             "api": "csp_Kugou",
-            "jar": "https://vip.123pan.cn/1826583920/14552403",
+            "jar": "./lib/wpzy.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -466,7 +466,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552469"
+            "ext": "./js/清风DJ.js"
         },
         {
             "key": "DJ",
@@ -476,15 +476,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://vip.123pan.cn/1826583920/14552403",
-            "ext": "https://vip.123pan.cn/1826583920/14552513"
+            "jar": "./lib/wpzy.jar",
+            "ext": "./json/DJyyyyw.json"
         },
         {
             "key": "一曲肝肠断",
             "name": "bilibili戏曲(🐉)",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552435",
+            "api": "./lib/apiv1021drpy2.min.js",
+            "ext": "./js/xq.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -498,7 +498,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://vip.123pan.cn/1826583920/14552512"
+            "ext": "./json/Blixs.json"
         },
         {
             "key": "戏 曲",
@@ -508,7 +508,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://vip.123pan.cn/1826583920/14552514"
+            "ext": "./json/Blixq.json"
         },
         {
             "key": "博看听书",
@@ -519,42 +519,42 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://vip.123pan.cn/1826583920/14552447"
+            "ext": "./js/博看听书.js"
         },
         {
             "key": "有声听书",
             "name": "有声听书🎙",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552462"
+            "api": "./lib/apiv1021drpy2.min.js",
+            "ext": "./js/有声小说吧.js"
         },
         {
             "key": "爱上你",
             "name": "爱上听书🎙",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552470"
+            "api": "./lib/apiv1021drpy2.min.js",
+            "ext": "./js/爱上你听书网.js"
         },
         {
             "key": "评书随身听",
             "name": "评书听书🎙",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552479"
+            "api": "./lib/apiv1021drpy2.min.js",
+            "ext": "./js/评书随身听.js"
         },
         {
             "key": "播客",
             "name": "播客听书🎙",
             "type": 3,
-            "api": "https://14338.kstore.space/tvbox1/lib/apiv1021drpy2.min.js",
-            "ext": "https://vip.123pan.cn/1826583920/14552459"
+            "api": "./lib/apiv1021drpy2.min.js",
+            "ext": "./js/播客.js"
         },
         {
             "key": "天天",
             "name": "天天秒播(🐉)",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "https://vip.123pan.cn/1826583920/14611420",
+            "jar": "./1.jar",
             "playerType": 1,
             "ext": "7lj763gg09397919456493i0h44j8681highi4"
         },
@@ -563,7 +563,7 @@
             "name": "追剧App(🐉)",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "https://vip.123pan.cn/1826583920/14611420",
+            "jar": "./1.jar",
             "playerType": 1,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
         },
@@ -572,7 +572,7 @@
             "name": "剧评App(🐉)",
             "type": 3,
             "api": "csp_Jpys",
-            "jar": "https://vip.123pan.cn/1826583920/14611420",
+             "jar": "./1.jar",
             "playerType": 1,
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
@@ -581,7 +581,7 @@
             "name": "星河App(🐉)",
             "type": 3,
             "api": "csp_Xdai",
-            "jar": "https://vip.123pan.cn/1826583920/14611420",
+            "jar": "./1.jar",
             "playerType": 2,
             "ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk"
         },
@@ -590,7 +590,7 @@
             "name": "驿站App(🐉)",
             "type": 3,
             "api": "csp_Muou",
-            "jar": "https://vip.123pan.cn/1826583920/14611420",
+            "jar": "./1.jar",
             "playerType": 2,
             "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh "
         },
@@ -599,7 +599,7 @@
             "name": "热播App(🐉)",
             "type": 3,
             "api": "csp_TTian",
-            "jar": "https://vip.123pan.cn/1826583920/14611420",
+            "jar": "./1.jar",
             "playerType": 1,
             "ext": "7lj763gg0939791h1l3888jig44gi291li"
         },
