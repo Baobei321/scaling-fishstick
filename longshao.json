@@ -448,6 +448,16 @@
             "ext": "./lib/MTV.txt"
         },
         {
+            "key": "哔哩舞蹈",
+            "name": "哔哩舞蹈🎵",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/哔哩舞蹈.txt"
+        },
+        {
             "key": "酷狗音乐",
             "name": "酷狗音乐🎵",
             "type": 3,
@@ -509,6 +519,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/Blixq.json"
+        },
+        {
+            "key": "哔哩听书",
+            "name": "哔哩听书🎙",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/哔哩听书.txt"
         },
         {
             "key": "博看听书",
