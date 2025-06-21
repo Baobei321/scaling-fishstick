@@ -31,7 +31,7 @@
             "key": "央视大全",
             "name": "央视直播┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",   
+            "api": "./lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -42,7 +42,7 @@
             "key": "央视经济",
             "name": "央视经济┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js",   
+            "api": "./lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -53,7 +53,7 @@
             "key": "央视新闻",
             "name": "央视新闻┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js", 
+            "api": "./lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -64,7 +64,7 @@
             "key": "央视综合",
             "name": "央视综合┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js", 
+            "api": "./lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -75,7 +75,7 @@
             "key": "央视少儿",
             "name": "央视少儿┃大全📺",
             "type": 3,
-            "api": "./lib/apiv1021drpy2.min.js", 
+            "api": "./lib/apiv1021drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -570,6 +570,19 @@
             "ext": "./js/播客.js"
         },
         {
+            "key": "苹果影视",
+            "name": "苹果影视(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$37",
+                "分类url": "http://live.xiwyxs.uk/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "简介": "🍁知🍁水印广告勿信，谨防诈骗🍁"
+            }
+        },
+        {
             "key": "天天",
             "name": "天天秒播(🐉)",
             "type": 3,
@@ -592,7 +605,7 @@
             "name": "剧评App(🐉)",
             "type": 3,
             "api": "csp_Jpys",
-             "jar": "./1.jar",
+            "jar": "./1.jar",
             "playerType": 1,
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
@@ -638,6 +651,18 @@
             }
         },
         {
+            "key": "Guazi",
+            "name": "瓜子秒播(🐉)",
+            "type": 3,
+            "api": "csp_Guazi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "",
+            "jar": "./pg.jar"
+        },
+        {
             "key": "歪片星球",
             "name": "歪片星球(🐉)",
             "type": 3,
@@ -655,6 +680,18 @@
                 "分类": "电影$dianying#电视剧$juji#短剧$duanju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
                 "分类url": "https://waipian30.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
                 "简介": "introduction-content\">&&</div>"
+            }
+        },
+        {
+            "key": "雪糕TV",
+            "name": "雪糕TV(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4",
+                "类型": "动作片$1#喜剧片$2#爱情片$21#海外动漫$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#纪录片$8#其他$9",
+                "分类url": "https://www.pgitv.com/vshow/{cateId}--{by}------{catePg}---{year}.html",
+                "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
             }
         },
         {
