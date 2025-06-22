@@ -2999,7 +2999,7 @@
         {
             "name": "1",
             "type": 0,
-            "url": "https://14338.kstore.space/tvbox1/%E8%B6%85%E7%BA%A7%E7%9B%B4%E6%92%AD.txt",
+            "url": "./直播挂件和直播/超级直播.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
