@@ -102,7 +102,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "./drpy_js/采集之王[合].js?type=url&params=/json/采集静态.json$1"
+    "ext": "/drpy_js/采集之王[合].js?type=url&params=/json/采集静态.json$1"
 },
         {
             "key": "自制音乐",
