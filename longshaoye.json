@@ -94,7 +94,7 @@
         },
         {
     "key": "hipy_js_采集之王[合]",
-    "name": "采王道长",
+      "name": "采集聚合(🐉)",
     "type": 3,
     "api": "/drpy_libs/drpy2.min.js",
     "searchable": 1,
