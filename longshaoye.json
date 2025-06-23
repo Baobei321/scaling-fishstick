@@ -97,7 +97,7 @@
     "key": "hipy_js_采集之王[合]0",
     "name": "采王道长",
     "type": 3,
-    "api": "./drpy_libs/drpy2.min.js",
+    "api": "/drpy_libs/drpy2.min.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
