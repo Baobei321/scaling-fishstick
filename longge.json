@@ -2251,7 +2251,7 @@
         {
             "name": "1",
             "type": 0,
-            "url": "./直播挂件和直播/超级直播.txt",
+            "url": "./直播挂件和直播/超级直播1.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
