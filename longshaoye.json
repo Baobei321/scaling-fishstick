@@ -592,6 +592,97 @@
             "ext": "./js/播客.js"
         },
         {
+            "key": "短剧大全",
+            "name": "短剧大全(🐉)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.yingshidaquantv.com/index.php/ajax/data?mid=1&tid=36",
+                "二次截取": "list\":\\[&&\\][替换:\"vod_id>>组头\"vod_id#\"vod_year>>组尾\"vod_year]",
+                "数组": "组头&&组尾",
+                "标题": "vod_name\":\"&&\"",
+                "图片": "vod_pic\":\"&&\"",
+                "副标题": "vod_remarks\":\"&&\"",
+                "链接": "/vod/+vod_id\":&&,+.html",
+                "线路数组": "\\#ewave-playlist&&</ul>",
+                "线路标题": "🐉龙少爷+>&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "简介": "🐉龙少爷为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+简介：&&</div>",
+                "分类url": "/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=30",
+                "分类": "重生民国$37&穿越年代$38&现代言情$39&反转爽文$40&女恋总裁$41&闪婚离婚$42&都市脑洞$43&古装仙侠$44"
+            }
+        },
+        {
+            "key": "偷乐短剧",
+            "name": "偷乐短剧(🐉)",
+            "type": 3,
+            "api": "./py/apiv1480偷乐短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "红果短剧",
+            "name": "红果短剧(🐉)",
+            "type": 3,
+            "api": "./py/apiv1570红果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "蓝莓短剧",
+            "name": "蓝莓短剧(🐉)",
+            "type": 3,
+            "api": "./py/apiv1618蓝莓短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "甜圈短剧",
+            "name": "甜圈短剧(🐉)",
+            "type": 3,
+            "api": "./py/apiv1642甜圈短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "河马短剧",
+            "name": "河马短剧(🐉)",
+            "type": 3,
+            "api": "./py/apiv1666河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "星芽",
+            "name": "星芽短剧(🐉)",
+            "type": 3,
+            "api": "csp_AppXY",
+            "jar": "./PandaQ250604.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "天天",
             "name": "天天秒播(🐉)",
             "type": 3,
@@ -653,6 +744,14 @@
             "jar": "./PandaQ250604.jar"
         },
         {
+            "key": "白白",
+            "name": "素白秒播(🐉)",
+            "type": 3,
+            "jar": "./PandaQ250604.jar",
+            "api": "csp_SuBaiBai",
+            "ext": "https://www.subaibai.com"
+        },
+        {
             "key": "永乐视频",
             "name": "永乐视频(🐉)",
             "type": 3,
@@ -698,7 +797,7 @@
                 "分类url": "https://waipian30.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
                 "简介": "introduction-content\">&&</div>"
             }
-        },      
+        },
         {
             "key": "雪糕TV",
             "name": "雪糕TV(🐉)",
@@ -709,32 +808,6 @@
                 "类型": "动作片$1#喜剧片$2#爱情片$21#海外动漫$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#纪录片$8#其他$9",
                 "分类url": "https://www.pgitv.com/vshow/{cateId}--{by}------{catePg}---{year}.html",
                 "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
-            }
-        },
-        {
-            "key": "短剧大全",
-            "name": "短剧大全(🐉)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.yingshidaquantv.com/index.php/ajax/data?mid=1&tid=36",
-                "二次截取": "list\":\\[&&\\][替换:\"vod_id>>组头\"vod_id#\"vod_year>>组尾\"vod_year]",
-                "数组": "组头&&组尾",
-                "标题": "vod_name\":\"&&\"",
-                "图片": "vod_pic\":\"&&\"",
-                "副标题": "vod_remarks\":\"&&\"",
-                "链接": "/vod/+vod_id\":&&,+.html",
-                "线路数组": "\\#ewave-playlist&&</ul>",
-                "线路标题": "🐉龙少爷+>&&</",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "简介": "🐉龙少爷为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+简介：&&</div>",
-                "分类url": "/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=30",
-                "分类": "重生民国$37&穿越年代$38&现代言情$39&反转爽文$40&女恋总裁$41&闪婚离婚$42&都市脑洞$43&古装仙侠$44"
             }
         },
         {
@@ -2211,6 +2284,35 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "随缘解析",
+            "type": "1",
+            "url": "http://moyun.shanhaiguanwu.com/mo4k.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
                 }
             }
         },
